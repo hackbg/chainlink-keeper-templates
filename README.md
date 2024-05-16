@@ -1,6 +1,6 @@
 # Chainlink Automation Templates
 
-This is a multi-project repo containing real-world examples of [Chainlink Automation](https://automation.chain.link) use cases that can be used as reference or to build upon.
+This is a multi-project repo containing real-world examples of [Chainlink Automuation](https://automation.chain.link) use cases that can be used as reference or to build upon.
 
 Chainlink Automation provides users with a decentralized network of nodes, incentivized to perform all registered jobs (or Upkeeps) without competing with each other. The network provides developers with hyper-reliable, decentralized smart contract automation.
 
